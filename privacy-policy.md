@@ -22,6 +22,9 @@ Some of the services may use location information transmitted from users' mobile
 ### Contact List Information  
 We may access your contact list if you choose to use the functionality to find other contacts on Lepark. The contact list information will not be stored or shared with any third party. We only use this information within the scope necessary for the designated service.
 
+### User Photo Information
+We may access and save photos from your device when you choose to upload a photo as your profile picture. These photos are stored securely and are used solely for the purpose of setting and displaying your profile picture. They are not shared with any third party or used for any other purpose.
+
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
